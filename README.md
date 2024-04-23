@@ -4,7 +4,7 @@
 
 > 一个有名的正态分布性检验是Shapiro-Wilk检验。该检验的本质是计算残差与其相应的正态分布分位数之间的相关系数，相关性越小，就越有理由否定正态性。
 
-<img src="images/Hist_QQplot.jpg" alt="Hist_QQplot" style="zoom:33%;" />
+<img src="Hist_QQplot.jpg" alt="Hist_QQplot" style="zoom:33%;" />
 
 ## Demo
 
